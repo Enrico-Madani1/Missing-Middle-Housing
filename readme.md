@@ -1,6 +1,6 @@
 # YOLOV9 for Building Type Detection
 ## Code structure
-
+- **files**: https://drive.google.com/drive/folders/1jyVIMHDOAx25rJuI_4GqeWKYeDo4ZtyZ?usp=drive_link
 - **data**: Contains the following data and data files:
     - `new_street_view_images`: Directory containing raw street view images.
     - `instances_default.json`: COCO format annotations file.
